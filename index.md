@@ -7,10 +7,9 @@ order: 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IKuJMeJiA3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Lade dein Essen hoch
-Was viele nicht wissen: Jeden Tag werden in Deutschland Lebensmittel im Internet verschenkt.
+#### Was viele nicht wissen: Jeden Tag werden in Deutschland Lebensmittel im Internet verschenkt.
 
-#### Wir finden: Nicht oft genug. Und vor Allem: Nie an Menschen ohne Zugang.
+Wir finden: Nicht oft genug. Und vor Allem: Nie an Menschen ohne Zugang.
 
 
 **TafelNet** schlägt die Brücke zwischen digitalem und analogem Krimskrams, indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt, wenn du mal was übrig hast.
