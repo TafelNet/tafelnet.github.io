@@ -19,9 +19,9 @@ Whatsapp-Gruppen:
 * [Hamburg St. Georg (Alpha-Phase)](https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx)
 
 Telegram-Gruppen:
-* folgt
+* in Bearbeitung
 
 ### Dynamischer Kanal
 
 Radar-App:
-* folgt
+* in Bearbeitung

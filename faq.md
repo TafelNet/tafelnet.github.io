@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 
-folgt
+in Bearbeitung
