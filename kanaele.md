@@ -6,7 +6,7 @@ permalink: /kanäle/
 
 TafelNet benutzt verschiedene regionale Kanäle, um Essen zu vermitteln. Da TafelNet noch sehr jung ist, versuchen wir unser Konzept zunächst im Hamburger Stadtviertel St.Georg zu reifen.
 
-Aktuell messen wir messen die Resonanz, Erfolgsquote und Wartezeiten.
+Aktuell messen wir die Resonanz, Erfolgsquote und Wartezeiten.
 
 #### Ziel:
 - Kontrolliertes Wachstum
