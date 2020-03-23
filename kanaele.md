@@ -16,7 +16,7 @@ Aktuell messen wir messen die Resonanz, Erfolgsquote und Wartezeiten.
 ### Statischer Kanal
 
 Whatsapp-Gruppen:
-* Hamburg St. Georg (Alpha): https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx
+* [Hamburg St. Georg (Alpha-Phase)](https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx)
 
 Telegram-Gruppen:
 * folgt
