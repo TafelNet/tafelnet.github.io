@@ -35,14 +35,14 @@ plugins:
 
 header_pages:
   - resourcen.md
-  - kanäle.md
+  - kanaele.md
   - faq.md
-  - kontakt.md
   - impressum.md
+#  - kontakt.md
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
-facebook_username: jekyll
+# facebook_username: jekyll
 # instagram_username: jekyll
 # linkedin_username: jekyll
 # youtube_username: jekyll
