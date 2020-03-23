@@ -17,9 +17,9 @@ title: TafelNet - Lade dein Essen noch
 email: h.le.inbox@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  "TafelNet schlägt die Brücke zwischen digitalem und analogem Krimskrams,
+  TafelNet schlägt die Brücke zwischen digitalem und analogem Krimskrams,
   indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt,
-  wenn du mal was übrig hast."
+  wenn du mal was übrig hast.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tafelnet.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
