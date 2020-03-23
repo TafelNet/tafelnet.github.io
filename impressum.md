@@ -2,8 +2,6 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-order: 99
-
 ---
 
 Angaben gemäß § 5 TMG
