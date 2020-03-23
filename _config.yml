@@ -32,17 +32,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+header_pages:
+  - resourcen.md
+  - kanäle.md
+  - faq.md
+  - kontakt.md
+  - impressum.md
+
 
 minima:
   social_links:
@@ -57,3 +53,16 @@ minima:
     youtube: jekyll
     youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     youtube_channel_name: CloudCannon
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
