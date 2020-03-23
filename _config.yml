@@ -43,3 +43,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+    stackoverflow: "11111"
+    facebook: jekyll
+    instagram: jekyll
+    linkedin: jekyll
+    telegram: jekyll
+
+    youtube: jekyll
+    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel_name: CloudCannon
