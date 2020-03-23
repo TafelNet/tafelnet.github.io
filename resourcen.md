@@ -6,5 +6,5 @@ order: 2
 ---
 
 
-[TafelNet in Zahlen](/file/tafelnet_data-story.pdf)
-[TafelNet Proof of Concept](/file/tafelnet_proof-of-concept.pdf)
+* [TafelNet in Zahlen](/file/tafelnet_data-story.pdf)
+* [TafelNet Erster Erfolg (Proof of Concept)](/file/tafelnet_proof-of-concept.pdf)
