@@ -8,12 +8,12 @@ TafelNet benutzt verschiedene regionale Kanäle, um Essen zu vermitteln. Da Tafe
 
 Aktuell messen wir messen die Resonanz, Erfolgsquote und Wartezeiten.
 
-Ziele:
+#### Ziel:
 - Kontrolliertes Wachstum
 - Vergleich verschiedener Kanalformen
 
 
-### Statisch
+### Statischer Kanal
 
 Whatsapp-Gruppen:
 * Hamburg St. Georg (Alpha): https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx
@@ -21,7 +21,7 @@ Whatsapp-Gruppen:
 Telegram-Gruppen:
 * folgt
 
-### Dynamisch
+### Dynamischer Kanal
 
 Radar-App:
 * folgt
