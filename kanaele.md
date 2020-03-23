@@ -18,7 +18,7 @@ siehe: [*"TafelNet Erste Erfolge"*](/file/tafelnet_proof-of-concept.pdf)
 ### Statischer Kanal
 
 Whatsapp-Gruppen:
-* [Hamburg St. Georg (Alpha-Phase)](https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx)
+* [Hamburg St. Georg (Alpha-Phase - bitte nur klicken, wenn ihr zur Zielgruppe gehört)](https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx)
 
 Telegram-Gruppen mit Bot:
 * in Bearbeitung
