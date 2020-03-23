@@ -20,7 +20,7 @@ siehe: [*"TafelNet Erste Erfolge"*](/file/tafelnet_proof-of-concept.pdf)
 Whatsapp-Gruppen:
 * [Hamburg St. Georg (Alpha-Phase - bitte nur klicken, wenn ihr zur Zielgruppe gehört)](https://chat.whatsapp.com/GQRpSP5Nkwp74csq2Hxzrx)
 
-<img alt= src="{{ site.baseurl }}/image/whatsapp_group_description.png" style="width: auto; height: auto;max-height: 400px;border:solid">
+<img alt= src="{{ site.url }}/image/whatsapp_group_description.png" style="width: auto; height: auto;max-height: 400px;border:solid">
 
 ![alt text][/image/whatsapp_request.png]
 ![alt text][/image/whatsapp_call_to_action.png]
