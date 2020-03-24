@@ -17,10 +17,6 @@ Das Problem: Im Zuge der Viruseindämmung schließt eine wichtige Anlaufstelle f
 
 Wir finden: Nicht oft genug. Und vor Allem: Nie an Menschen ohne Zugang.
 
-
-Wir finden: Nicht oft genug! Und vor Allem: Nie von Menschen ohne Internetzugang. 
-
-
 **TafelNet** schlägt die Brücke zwischen digitalem und analogem Krimskrams, indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt, wenn du mal Essen oder Lebensmittel übrig hast. Dabei entscheidest du wo und wie dein Essen abgeholt wird – ob persönlich vor deiner Haustür oder kontaktfrei hinterlegt beim Bäcker gegenüber. 
 
 Das Konzept von TafelNet ist das **Nachfrage-first-and-only** Prinzip. Somit bleibt der Fokus auf den Hilfesuchenden und die Helfer können schneller reagieren - vergleichbar mit einer Notfallapp.
