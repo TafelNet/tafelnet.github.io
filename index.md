@@ -23,7 +23,7 @@ Das Konzept von TafelNet ist das **Nachfrage-first-and-only** Prinzip. Somit ble
 Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt treten: über einen aufgestellten Automaten, über eine Telefonnummer oder über eine dritte Person, die ihm den Hunger angesehen hat. Die Anfrage landet dann über eine App/Chatgruppe bei dir. Fertig.
 
 
-Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen **Mach mit!**
+Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen. **Mach mit!**
 
 
 <br>
