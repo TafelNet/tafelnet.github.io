@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resourcen
-permalink: /resourcen/
+title: Ressourcen
+permalink: /ressourcen/
 ---
 
 
