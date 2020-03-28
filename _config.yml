@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - resourcen.md
+  - ressourcen.md
   - kanaele.md
   - faq.md
   - impressum.md

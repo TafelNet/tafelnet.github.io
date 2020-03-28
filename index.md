@@ -11,20 +11,17 @@ order: 1
 <br>
 <br>
 
+Das Problem: Im Zuge der Viruseindämmung schließt eine wichtige Anlaufstelle für die Bedürftigen: die Tafel. Dabei wächst gerade jetzt die Zahl der Hilfesuchenden!
+
 #### Was viele nicht wissen: Jeden Tag werden in Deutschland Lebensmittel im Internet verschenkt.*
 
 Wir finden: Nicht oft genug. Und vor Allem: Nie an Menschen ohne Zugang.
 
+**TafelNet** schlägt die Brücke zwischen digitalem und analogem Krimskrams, indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt, wenn du mal Essen oder Lebensmittel übrig hast. Dabei entscheidest du wo und wie dein Essen abgeholt wird – ob persönlich vor deiner Haustür oder kontaktfrei hinterlegt beim Bäcker gegenüber. 
 
-**TafelNet** schlägt die Brücke zwischen digitalem und analogem Krimskrams, indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt, wenn du mal was übrig hast.
+Das Konzept von TafelNet ist das **Nachfrage-first-and-only** Prinzip. Somit bleibt der Fokus auf den Hilfesuchenden und die Helfer können schneller reagieren - vergleichbar mit einer Notfallapp.
+Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt treten: über einen aufgestellten Automaten, über eine Telefonnummer oder über eine dritte Person, die ihm den Hunger angesehen hat. Die Anfrage landet dann über eine App/Chatgruppe bei dir. Fertig.
 
-1. Bernd, 52, drei Ecken weiter, meldet sich bei uns mit der Bitte um Hilfe - ganz klassisch bei der örtlichen Tafel.
-2. TafelNet gibt die Anfrage an Menschen wie dich weiter - ganz modern auf dein Handy.
-3. Du sagst an, wenn du was übrig hast :)
-
-Bernd spaziert kurz zu dir rüber, ~~schlägt ein Highfive~~, und dein Essen findet einen weiteren Genießer. Die Innovation bei TafelNet liegt bei den sowohl stationären, als auch mobilen freiwilligen Anlaufstellen: Bernd konnte an die aufgestellten Automaten gehen, oder jemand hat ihm den Hunger angesehen.
-
-Beide schicken ihre Anfrage dann über unsere Chatgruppe oder App. Fertig.
 
 Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen. **Mach mit!**
 
