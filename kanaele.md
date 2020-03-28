@@ -36,3 +36,9 @@ Telegram-Gruppen mit Bot:
 
 Radar-App:
 * in Bearbeitung
+
+<img alt="Phone" src="{{ site.url }}/image/app_mockup1.jpg" style="width: auto; height: auto;max-height: 500px;border:solid grey 2px">
+
+<img alt="App Radar" src="{{ site.url }}/image/phone_screen1.png" style="width: auto; height: auto;max-height: 500px;border:solid grey 2px">
+
+<img alt="App Liste" src="{{ site.url }}/image/phone_screen2.png" style="width: auto; height: auto;max-height: 500px;border:solid grey 2px">
