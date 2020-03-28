@@ -35,7 +35,6 @@ Telegram-Gruppen mit Bot:
 ### Dynamischer Kanal
 
 Radar-App:
-* in Bearbeitung
 
 <img alt="Phone" src="{{ site.url }}/image/app_mockup1.jpg" style="width: auto; height: auto;max-height: 500px;border:solid grey 2px">
 
