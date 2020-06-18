@@ -35,7 +35,7 @@ permalink: /team/
   display: inline-block;">
   </span>
 </p>
-<p style="text-align: center;">Patrick</p>
+<p style="text-align: center;">Patrick - "Erbsenzähler? Nordlicht?"</p>
 <br>
 
 
