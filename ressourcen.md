@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ressourcen
+title: Docs
 permalink: /ressourcen/
 ---
 
