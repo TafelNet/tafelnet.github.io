@@ -1,3 +1,8 @@
+---
+layout: page
+title: team
+permalink: /team/
+---
 
 <p style="background-image: url('{{ site.url }}/image/team/huy.jpg');
   width: 180px;
