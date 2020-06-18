@@ -9,8 +9,10 @@
 
 
 
-<span style="height: 25px;
-  width: 25px;
+<span style="
+  text-align: center;
+  height: 180px;
+  width: 180px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;"></span>
