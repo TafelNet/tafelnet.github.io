@@ -25,7 +25,7 @@ Wir finden: Nicht oft genug. Und vor Allem: Nie an Menschen ohne Zugang.
 **TafelNet** schlägt die Brücke zwischen digitalem und analogem Krimskrams, indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt, wenn du mal Essen oder Lebensmittel übrig hast. Dabei entscheidest du wo und wie dein Essen abgeholt wird – ob persönlich vor deiner Haustür oder kontaktfrei hinterlegt beim Bäcker gegenüber. 
 
 Das Konzept von TafelNet ist das **Nachfrage-first-and-only** Prinzip. Somit bleibt der Fokus auf den Hilfesuchenden und die Helfer können schneller reagieren - vergleichbar mit einer Notfallapp.
-Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt treten: über einen aufgestellten Automaten, über eine Telefonnummer oder über eine dritte Person, die ihm den Hunger angesehen hat. Die Anfrage landet dann über eine App/Chatgruppe bei dir. Fertig.
+Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt treten: über einen aufgestellten Automaten, über eine Telefonnummer oder über eine dritte Person, die ihm den Hunger angesehen hat. Die Anfrage landet dann über eine Benachrichtigung direkt bei dir. Fertig.
 
 
 Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen. **Mach mit!**
