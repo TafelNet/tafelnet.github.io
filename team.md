@@ -24,7 +24,7 @@ permalink: /team/
 <br>
 
 
-<p style="background-image: url('{{ site.url }}/image/team/patrick2.png');
+<p style="background-image: url('{{ site.url }}/image/team/patrick.png');
   width: 180px;
   height: 180px;
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
