@@ -8,6 +8,8 @@ Patrick
 
 Peter
 
+Lea
+
 Ben
 
 Thu
@@ -16,4 +18,12 @@ Mel
 
 Mo
 
+Jackie
+
 Yannik
+
+Kieu Anh
+
+Trinh
+
+Mai
