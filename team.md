@@ -1,3 +1,8 @@
+---
+layout: page
+title: Das Team <3
+permalink: /team/
+---
 
 <p style="background-image: url('{{ site.url }}/image/team/huy.jpg');
   width: 180px;
@@ -5,7 +10,7 @@
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Huy - Möglichmacher</p>
+<p style="text-align: center;">Huy - "Möglichmacher"</p>
 <br>
 
 
@@ -15,7 +20,7 @@
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Van</p>
+<p style="text-align: center;">Van - "Faktencheckerin"</p>
 <br>
 
 
@@ -120,7 +125,7 @@
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Jackie - Cpt. Huy</p>
+<p style="text-align: center;">Jackie - "Cpt. Huy"</p>
 <br>
 
 
