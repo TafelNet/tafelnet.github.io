@@ -167,3 +167,12 @@
 <p style="text-align: center;">Mai</p>
 <br>
 
+
+<p style="background-image: url('{{ site.url }}/image/team/michael.png');
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
+<p style="text-align: center;">Michael</p>
+<br>
