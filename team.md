@@ -120,7 +120,7 @@
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Jackie - Mega-Huy</p>
+<p style="text-align: center;">Jackie - Cpt. Huy</p>
 <br>
 
 
