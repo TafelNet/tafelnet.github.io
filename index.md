@@ -12,9 +12,10 @@ order: 1
 <br>
 
 ### Wir heißen bald [_essengeben.net_](https://www.essengeben.net)
-Wirf jetzt [einen ersten Blick](https://www.essengeben.net).
+Wirf jetzt [einen ersten Blick!](https://www.essengeben.net)
 
 ---
+<br>
 
 Das Problem: Im Zuge der Viruseindämmung schließt eine wichtige Anlaufstelle für die Bedürftigen: die Tafel. Dabei wächst gerade jetzt die Zahl der Hilfesuchenden!
 
