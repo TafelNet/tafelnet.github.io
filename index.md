@@ -11,8 +11,8 @@ order: 1
 <br>
 <br>
 
-### Wir heißen bald [_essengeben.net_](https://www.essengeben.net)
-Wirf jetzt [einen ersten Blick!](https://www.essengeben.net)
+### Wir heißen bald [_essengeben.net_](https://essengeben.net)
+Wirf jetzt [einen ersten Blick!](https://essengeben.net)
 
 ---
 <br>
