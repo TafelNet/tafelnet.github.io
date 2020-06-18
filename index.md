@@ -30,7 +30,7 @@ Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt tre
 
 Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen. **Mach mit!**
 
+<br>
+<br>
 
-<br>
-<br>
 *Quelle: [https://www.ebay-kleinanzeigen.de/s-zu-verschenken-tauschen/lebensmittel/k0c272](https://www.ebay-kleinanzeigen.de/s-zu-verschenken-tauschen/lebensmittel/k0c272)
