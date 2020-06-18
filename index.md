@@ -12,7 +12,7 @@ order: 1
 <br>
 
 ### :heavy_exclamation_mark: Wir heißen bald [_essengeben.net_](https://www.essengeben.net)
-Wirf einen jetzt [einen ersten Blick](https://www.essengeben.net).
+Wirf jetzt [einen ersten Blick](https://www.essengeben.net).
 
 ---
 
