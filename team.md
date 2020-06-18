@@ -4,13 +4,12 @@
 <p style="text-align: center;">Huy - Möglichmacher</p>
 <br>
 
-<div style="background-image: url('{{ site.url }}/image/team/van.png');
-  width: 200px;
-  height: 100px;
+<div style="background-image: url('https://tafelnet.github.io/image/team/van.png');
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></div>
-
-<img alt="Van" src="{{ site.url }}/image/team/van.png" style="border-radius: 50%;width: auto; height: auto;max-height: 180px;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;">
 <p style="text-align: center;">Van</p>
 <br>
 
