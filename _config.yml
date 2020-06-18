@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TafelNet
-author: 0151 - 717 598 45
-email: tafelnet@gmail.com
+title: Essengeben
+author: 0162 - 33 66 059
+email: mail@essengeben.net
 
 description: >- # this means to ignore newlines until "baseurl:"
-  TafelNet schlägt die Brücke zwischen digitalem und analogem Krimskrams,
+  Essengeben.net schlägt die Brücke zwischen digitalem und analogem Krimskrams,
   indem sie den Bedürftigen auf der Straße den Weg zu deiner Straße zeigt,
   wenn du mal was übrig hast.
 
