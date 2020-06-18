@@ -4,7 +4,7 @@
 <p style="text-align: center;">Huy - Möglichmacher</p>
 <br>
 
-<div style="background-image: url('https://tafelnet.github.io/image/team/van.png');
+<div style="background-image: url('{{ site.url }}/image/team/van.png');
   width: 180px;
   height: 180px;
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
