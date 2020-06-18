@@ -24,18 +24,13 @@ permalink: /team/
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/patrick.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
-<p style="text-align: center;">Patrick</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
+<p style="text-align: center;">Patrick - "Erbsenzähler? Nordlicht?"</p>
 <br>
 
 
@@ -148,17 +143,12 @@ permalink: /team/
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/trinh.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Trinh</p>
 <br>
 
