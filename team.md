@@ -1,5 +1,10 @@
 
-<img alt="Huy" src="{{ site.url }}/image/team/huy.jpg" style="border-radius: 50%;width: auto; height: auto;max-height: 180px;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;">
+<p style="background-image: url('{{ site.url }}/image/team/huy.jpg');
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Huy - Möglichmacher</p>
 <br>
 
@@ -89,77 +94,51 @@
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/mo.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Mo</p>
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/mel.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Mel</p>
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/jackie.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
-<p style="text-align: center;">Jackie</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
+<p style="text-align: center;">Jackie - Mega-Huy</p>
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/yannik.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Yannik</p>
 <br>
 
-
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/kieuanh.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Kieu Anh</p>
 <br>
 
@@ -179,17 +158,12 @@
 <br>
 
 
-<p style="text-align: center;">
-  <span style="
-  text-align: center;
-  height: 180px;
+<p style="background-image: url('{{ site.url }}/image/team/mai.png');
   width: 180px;
-  background-color: #bbb;
-  border-radius: 50%;
-  border:solid grey 1px;
-  display: inline-block;">
-  </span>
-</p>
+  height: 180px;
+  border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
+  background-position: center;
+  background-size: cover;"></p>
 <p style="text-align: center;">Mai</p>
 <br>
 
