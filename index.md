@@ -11,6 +11,11 @@ order: 1
 <br>
 <br>
 
+### :heavy_exclamation_mark: Wir heißen bald [_essengeben.net_](https://www.essengeben.net)
+Wirf einen jetzt [einen ersten Blick](https://www.essengeben.net).
+
+---
+
 Das Problem: Im Zuge der Viruseindämmung schließt eine wichtige Anlaufstelle für die Bedürftigen: die Tafel. Dabei wächst gerade jetzt die Zahl der Hilfesuchenden!
 
 #### Was viele nicht wissen: Jeden Tag werden in Deutschland Lebensmittel im Internet verschenkt.*
