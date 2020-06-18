@@ -114,7 +114,7 @@
 <br>
 
 
-<p style="background-image: url('{{ site.url }}/image/team/jackie.png');
+<p style="background-image: url('{{ site.url }}/image/team/jackie.jpeg');
   width: 180px;
   height: 180px;
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
