@@ -12,6 +12,8 @@ order: 1
   width: 50%;"
   alt="essengeben.net">
 
+</br>
+
 ### Wir heißen bald [_essengeben.net_](https://essengeben.net)
 
 In der Zeit nach dem [WirVsVirus-Hackathon der Bundesregierung](https://wirvsvirus.org/) ist TafelNet als Konzept zu einer ersten lauffähigen Webanwendung gereift. Mit diesem Schritt haben wir uns auch entschlossen, uns als _essengeben.net_ zu präsentieren. Mithilfe einiger Kooperationspartner, die wir hier in Kürze auch vorstellen möchten, sind wir auf einem guten Weg einen bleibenden Beitrag in der Gesellschaft zu leisten. Bleibt gespannt und danke, dass ihr dabei seid!
