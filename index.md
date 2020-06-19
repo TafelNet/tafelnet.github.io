@@ -10,10 +10,7 @@ order: 1
   margin-left: auto;
   margin-right: auto;
   width: 50%;"
-  alt="essengeben.net"></img>
-
-<br>
-<br>
+  alt="essengeben.net">
 
 ### Wir heißen bald [_essengeben.net_](https://essengeben.net)
 
