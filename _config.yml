@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - team.md
   - ressourcen.md
-  - faq.md
+#  - faq.md
   - impressum.md
 #  - kontakt.md
 
