@@ -134,7 +134,7 @@ permalink: /team/
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Kieu Anh</p>
+<p style="text-align: center;">Kieu Anh - "Assistenz Videocutterin"</p>
 <br>
 
 
@@ -144,7 +144,7 @@ permalink: /team/
   border-radius: 50%;border:solid grey 1px; display: block;margin-left: auto;margin-right: auto;
   background-position: center;
   background-size: cover;"></p>
-<p style="text-align: center;">Trinh</p>
+<p style="text-align: center;">Trinh - "Grafikdesignerin"</p>
 <br>
 
 
