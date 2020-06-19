@@ -13,7 +13,6 @@ order: 1
   alt="essengeben.net">
 
 <br>
-<br>
 
 ### Wir heißen bald [_essengeben.net_](https://essengeben.net)
 
