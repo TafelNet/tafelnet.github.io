@@ -13,4 +13,5 @@ permalink: /ressourcen/
 
 
 ---
-Build with Trello, Discord, Jamboard, Github Pages, React, Firebase/GCP
+
+❤️ Build with Trello, Discord, Jamboard, Github Pages, React, Firebase/GCP
