@@ -22,7 +22,7 @@ In der Zeit nach dem [WirVsVirus-Hackathon der Bundesregierung](https://wirvsvir
 Wirf jetzt [einen ersten Blick!](https://essengeben.net)
 
 <div class="video-container">
-    <iframe width="100%" height="300vh" src="https://www.youtube.com/embed/xXSTGC58JoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="350vh" src="https://www.youtube.com/embed/xXSTGC58JoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -31,11 +31,6 @@ Wirf jetzt [einen ersten Blick!](https://essengeben.net)
 #### Die ursprüngliche Idee
 
 Im Rahmen des WirVsVirus-Hackathons wurde innerhalb kürzester Zeit folgende Idee ausgearbeitet:
-
-<div class="video-container">
-    <iframe width="100%" height="300vh" src="https://www.youtube.com/embed/IKuJMeJiA3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 > Das Problem: Im Zuge der Viruseindämmung schließt eine wichtige Anlaufstelle für die Bedürftigen: die Tafel. Dabei wächst gerade jetzt die Zahl der Hilfesuchenden!
 
@@ -50,6 +45,11 @@ Dabei kann der Bedürftige über mehrere Kanäle mit dem Netzwerk in Kontakt tre
 
 
 Mit Hungernden in deiner Nähe ist es leichter, nicht wegzuschauen. **Mach mit!**
+
+<div class="video-container">
+    <iframe width="100%" height="300vh" src="https://www.youtube.com/embed/IKuJMeJiA3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <br>
 <br>
